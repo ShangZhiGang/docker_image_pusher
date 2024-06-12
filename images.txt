@@ -1,1 +1,1 @@
-redis:7.0.15-alpine --platform=linux/arm64
+redis:7.0.15-alpine --platform=linux/arm64 xiaoyaliu/alist
