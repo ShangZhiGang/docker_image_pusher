@@ -1,2 +1,2 @@
 #支持指定架构
---platform=linux/arm64 redis:7.0.15-alpine
+--platform=linux/arm64 minio/minio:RELEASE.2024-06-11T03-13-30Z-cpuv1
