@@ -1,1 +1,1 @@
-redis:7.0.15-alpine --platform=linux/arm64 com.zrys/redis
+redis:7.0.15-alpine --platform=linux/arm64
