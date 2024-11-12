@@ -1,4 +1,4 @@
 #支持指定架构
 #--platform=linux/arm64 node:18.20-alpine3.18
---platform=linux/arm64 openjdk:17-jdk-slim
+--platform=linux/arm64 openjdk:17-jdk-alpine3.12
 
