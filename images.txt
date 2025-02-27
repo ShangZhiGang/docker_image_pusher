@@ -1,5 +1,5 @@
 #支持指定架构
 #--platform=linux/arm64 node:18.20-alpine3.18
-postgres:15
+pgvector/pgvector:0.8.0-pg17
 
 
