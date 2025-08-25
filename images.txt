@@ -1,6 +1,7 @@
 #支持指定架构
 #--platform=linux/arm64 node:18.20-alpine3.18
 #pgvector/pgvector:0.8.0-pg17
---platform=linux/arm64 apache/seatunnel:2.3.10
+#--platform=linux/arm64 apache/seatunnel:2.3.10
+mysql:5.7
 
 
