@@ -2,6 +2,7 @@
 #--platform=linux/arm64 node:18.20-alpine3.18
 #pgvector/pgvector:0.8.0-pg17
 #--platform=linux/arm64 apache/seatunnel:2.3.10
-node:20-alpine
+#node:20-alpine
+--platform=linux/arm64 alibabadragonwell/dragonwell:21.0.10.0.10.7
 
 
